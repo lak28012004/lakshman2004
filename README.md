@@ -12,7 +12,7 @@
     </header>
     <section id="about">
         <h2>About Me</h2>
-        <img src="images/profile.jpg" alt="Profile Picture">
+        <img src="C:\Users\lakshman .B\OneDrive\Pictures\int.jpg" alt="Profile Picture">
         <p>Hello! I am Lakshman, a software and AI developer with a passion for creating amazing applications.</p>
     </section>
     <section id="projects">
